@@ -53,7 +53,7 @@ const UploadStep: React.FC<UploadStepProps> = ({ onNextStep }) => {
       }}
       className="max-w-lg mx-auto px-4 lg:px-0"
     >
-      <h2 className="text-4xl font-bold text-[#fdfa29]">Let&apos;s prep for your interview</h2>
+      <h2 className="text-4xl font-bold text-emerald-500">Let&apos;s prep for your interview</h2>
       <p className="text-[14px] leading-[20px] text-[#ffffff] font-normal my-4">
         Upload your resume and provide the job description so we can tailor your interview preparation.
       </p>
