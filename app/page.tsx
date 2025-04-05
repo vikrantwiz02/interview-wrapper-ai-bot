@@ -968,7 +968,7 @@ export default function DemoPage() {
                 >
                   <ul className="mb-auto list-none">
                     <li className="list-none flex items-center">
-                      <p className="text-[12px] font-extrabold text-gray-200">CodeCrack</p>
+                      <p className="text-[12px] font-extrabold text-gray-200">Interview Wrapper</p>
                     </li>
                     <li className="mt-4 list-none flex items-center rounded-[9px] text-gray-300 py-[2px]">
                       <svg className="h-4 w-4 text-gray-400" fill="none" viewBox="0 0 24 24">
